@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\bin\Debug\net6.0\Task_47, 50, 52.exe
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\bin\Debug\net6.0\Task_47, 50, 52.deps.json
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\bin\Debug\net6.0\Task_47, 50, 52.runtimeconfig.json
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\bin\Debug\net6.0\Task_47, 50, 52.dll
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\bin\Debug\net6.0\Task_47, 50, 52.pdb
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\obj\Debug\net6.0\Task_47, 50, 52.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\obj\Debug\net6.0\Task_47, 50, 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\obj\Debug\net6.0\Task_47, 50, 52.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\obj\Debug\net6.0\Task_47, 50, 52.AssemblyInfo.cs
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\obj\Debug\net6.0\Task_47, 50, 52.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\obj\Debug\net6.0\Task_47, 50, 52.dll
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\obj\Debug\net6.0\refint\Task_47, 50, 52.dll
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\obj\Debug\net6.0\Task_47, 50, 52.pdb
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\obj\Debug\net6.0\Task_47, 50, 52.genruntimeconfig.cache
+C:\Users\Alex\Desktop\HW_Seminar_7\Task_47, 50, 52\obj\Debug\net6.0\ref\Task_47, 50, 52.dll
